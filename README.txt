@@ -1,3 +1,0 @@
-- ได้เรียนรู้โครงสร้าง Semantic HTML เช่น header, nav, main, section
-- สามารถสร้างเว็บ 1 หน้าโดยไม่ใช้ CSS/JavaScript และยังอ่านเข้าใจได้
-- ได้ฝึกใช้ table, form, list และลิงก์ภายใน/ภายนอกหน้าเว็บ
